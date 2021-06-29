@@ -1,6 +1,6 @@
 {
   "name": "easy-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Créer votre site en 2 lignes",
   "main": "index.js",
   "scripts": {
@@ -11,14 +11,5 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/liam-gen/easy-express.git"
-  },
-  "bugs": {
-    "url": "https://github.com/liam-gen/easy-express/issues"
-  },
-  "homepage": "https://github.com/liam-gen/easy-express#readme"
+  }
 }

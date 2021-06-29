@@ -29,7 +29,7 @@ module.exports = class Application {
                 return
             }
             this.app.get(link, function(req, res) {
-                const thedata = data.replace('<{{ footer }}/>', '<footer style="background: black;color: white;border-radius: 20px;padding: 15px"><p>&copy; Propulsé par <a href="https://github.com/liam-gen/easy-express", style="text-decoration: none";text-color: white, target="_BLANK">easy-express</a></p></footer>')
+                const thedata = data.replace('<{{ footer }}/>', '<footer style="background: black;color: white;border-radius: 20px;padding: 15px"><p>&copy; Propulsé par <a href="https://github.com/liam-gen/easy-express-js", style="text-decoration: none";text-color: white, target="_BLANK">easy-express</a></p></footer>')
                 res.send(thedata)
             })
         })

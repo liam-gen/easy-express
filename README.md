@@ -1,4 +1,4 @@
-## easy-express v1
+## easy-express-js v1
 
 Installation
 
