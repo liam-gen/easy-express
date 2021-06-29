@@ -1,15 +1,23 @@
 {
-  "name": "easy-express",
+  "name": "easy-express-js",
   "version": "1.0.1",
-  "description": "Créer votre site en 2 lignes",
+  "description": "Créer ton site en 2 lignes !",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liam-gen/easy-express-js.git"
+  },
+  "keywords": [
+    "express",
+    "easy"
+  ],
   "author": "Bladebolt Team",
   "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1",
-  }
+  "bugs": {
+    "url": "https://github.com/liam-gen/easy-express-js/issues"
+  },
+  "homepage": "https://github.com/liam-gen/easy-express-js#readme"
 }
